@@ -6,12 +6,19 @@
 2)	编程语言及版本
 
 	Python 3.6.3
+	
 	Catboost 0.9.1.1
+	
 	Lightgbm 2.1.1
+	
 	Numpy 1.14.2
+	
 	Pandas 0.23.0
+	
 	scikit-learn 0.19.1
+	
 	scipy 0.19.1
+	
 	xgboost 0.72
 
 3)  因数据量太大只提交了代码，复现请将数据拷贝到相应文件夹下。
